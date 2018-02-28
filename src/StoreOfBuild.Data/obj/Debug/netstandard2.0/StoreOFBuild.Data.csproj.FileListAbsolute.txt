@@ -1,0 +1,7 @@
+C:\UdemyApp\src\StoreOFBuild.Data\bin\Debug\netstandard2.0\StoreOfBuild.Domain.dll
+C:\UdemyApp\src\StoreOFBuild.Data\bin\Debug\netstandard2.0\StoreOfBuild.Domain.pdb
+C:\UdemyApp\src\StoreOFBuild.Data\obj\Debug\netstandard2.0\StoreOFBuild.Data.csproj.CoreCompileInputs.cache
+C:\UdemyApp\src\StoreOFBuild.Data\obj\Debug\netstandard2.0\StoreOFBuild.Data.AssemblyInfoInputs.cache
+C:\UdemyApp\src\StoreOFBuild.Data\obj\Debug\netstandard2.0\StoreOFBuild.Data.AssemblyInfo.cs
+C:\UdemyApp\src\StoreOFBuild.Data\obj\Debug\netstandard2.0\StoreOFBuild.Data.dll
+C:\UdemyApp\src\StoreOFBuild.Data\obj\Debug\netstandard2.0\StoreOFBuild.Data.pdb

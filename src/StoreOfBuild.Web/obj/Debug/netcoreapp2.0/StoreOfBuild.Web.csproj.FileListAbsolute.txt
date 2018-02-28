@@ -1,0 +1,10 @@
+C:\UdemyApp\src\StoreOfBuild.Web\obj\Debug\netcoreapp2.0\StoreOfBuild.Web.csproj.CoreCompileInputs.cache
+C:\UdemyApp\src\StoreOfBuild.Web\obj\Debug\netcoreapp2.0\StoreOfBuild.Web.AssemblyInfoInputs.cache
+C:\UdemyApp\src\StoreOfBuild.Web\obj\Debug\netcoreapp2.0\StoreOfBuild.Web.AssemblyInfo.cs
+C:\UdemyApp\src\StoreOfBuild.Web\bin\Debug\netcoreapp2.0\StoreOfBuild.Web.deps.json
+C:\UdemyApp\src\StoreOfBuild.Web\bin\Debug\netcoreapp2.0\StoreOfBuild.Web.runtimeconfig.json
+C:\UdemyApp\src\StoreOfBuild.Web\bin\Debug\netcoreapp2.0\StoreOfBuild.Web.runtimeconfig.dev.json
+C:\UdemyApp\src\StoreOfBuild.Web\bin\Debug\netcoreapp2.0\StoreOfBuild.Web.dll
+C:\UdemyApp\src\StoreOfBuild.Web\bin\Debug\netcoreapp2.0\StoreOfBuild.Web.pdb
+C:\UdemyApp\src\StoreOfBuild.Web\obj\Debug\netcoreapp2.0\StoreOfBuild.Web.dll
+C:\UdemyApp\src\StoreOfBuild.Web\obj\Debug\netcoreapp2.0\StoreOfBuild.Web.pdb
